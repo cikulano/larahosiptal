@@ -1,0 +1,17 @@
+/* public/assets/css/button.css */
+
+/* Style for the "Submit Request" button */
+.btn-primary {
+    background-color: green; /* Change to your desired background color */
+    color: white; /* Change to your desired text color */
+    border: none; /* Remove border if not needed */
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+}
+
+/* Optional: Hover and Focus Effects */
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: darkgreen; /* Change to a different color on hover/focus */
+    /* Add any other effects you want */
+}
